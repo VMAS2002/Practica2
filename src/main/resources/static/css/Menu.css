@@ -9,7 +9,7 @@ body{
 }
 
 .header{
-    background-color: #076AF0;
+    background-color: #735945;
     height: 80px;
     position: fixed;
     top: 0;
@@ -20,8 +20,8 @@ body{
 .nav{
     display: flex;
     justify-content: space-between;
-    max-width: 992px;
-    margin: 0 auto;
+    max-width: 9000px;
+    margin: auto;
 }
 
 .nav-link{
@@ -50,7 +50,7 @@ body{
 }
 
 .nav-menu-link:hover{
-    background-color: #024070;
+    background-color: #553D2A;
     transition: 0.5s;
 }
 

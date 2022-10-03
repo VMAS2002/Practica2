@@ -4,8 +4,9 @@
     left: 0;
     height: 8%;
     width: 100%;
-    background-color: blue;
-    color: white;
+    background-color: #553D2A ;
+    color: #E3D7BF;
+    text-align: center;
 }
 
 #encabezado{
@@ -21,8 +22,8 @@
     color: white;
 }
 #menu a {
-    background-color:  red;
-    color: black;
+    background-color:  brown;
+    color: white;
 }
 #menu a:hover {
     background-color:  green;
@@ -56,10 +57,9 @@
     color: white;
 }
 
-#tablaresumen tr :nth-child(odd) {
-}
-
-#tablaresumen tr :nth-child(even) {
+#tablaresumen{
+    background-color: #AB9680;
+    color: black;
 }
 
 #piepagina{
